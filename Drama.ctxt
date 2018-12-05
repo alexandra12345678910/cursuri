@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Drama
+comment1.params=titlu\ durata\ varstaMinima
+comment1.target=Drama(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

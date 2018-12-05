@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cinematograf
+comment1.params=
+comment1.target=Cinematograf()
+comment2.params=
+comment2.target=Cinematograf\ getInstance()
+comment3.params=
+comment3.target=void\ afisare()
+comment4.params=
+comment4.target=void\ afiseazaAnimatie()
+comment5.params=titlu\ durata
+comment5.target=void\ adaugaFilm(java.lang.String,\ double)
+comment6.params=titlu\ durata\ varstaMinima
+comment6.target=void\ adaugaFilm(java.lang.String,\ double,\ int)
+numComments=7

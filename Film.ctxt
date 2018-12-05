@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Film
+comment1.params=titlu\ durata
+comment1.target=Film(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getTitlu()
+comment3.params=titlu
+comment3.target=void\ setTitlu(java.lang.String)
+comment4.params=
+comment4.target=double\ getDurata()
+comment5.params=durata
+comment5.target=void\ setDurata(double)
+numComments=6
